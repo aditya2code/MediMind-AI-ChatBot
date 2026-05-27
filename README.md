@@ -1,0 +1,1 @@
+conda create -n MediMind python=3.10 -y
